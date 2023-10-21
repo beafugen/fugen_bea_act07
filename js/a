@@ -1,0 +1,7 @@
+// This is a simple JavaScript file
+function greet() {
+  alert("Hello, World!");
+}
+
+// Example usage
+greet();
